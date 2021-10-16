@@ -1,0 +1,87 @@
+p{
+    padding-bottom:50px;
+}
+h1{
+    font-size: 50px;
+    color: rgb(236, 75, 117);
+}
+h2{
+    font-size: 40px;
+    padding-top: 60px;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-color:  rgb(236, 75, 117);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    margin-bottom: 311px;
+}
+.button:hover{
+    text-decoration: none;
+    background-color:  rgb(230, 51, 99);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    margin-bottom: 311px;
+}
+body{font-family: 'Rubik', sans-serif;
+    margin: 0%;
+}
+.section-one{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    height: 650px;
+}
+.section-two{
+    background-image: url(images/biography-bg.png);
+    height: 650px;
+}
+#bio{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+.latest-work{
+    height: 550px;
+    background-image: url(images/latest-work-bg.png);
+    padding-top: 80px;
+}
+#latest{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.three{
+    width: 27%;
+    float: left;
+    margin-left: 5%;
+}
+.client{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 550px;
+}
+.box{
+    background-color:hotpink;
+    border-radius: 20px;
+    padding-top: 10px;    
+}
+.footer{
+    text-align: center;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:tomato;
+    color: white;
+}
